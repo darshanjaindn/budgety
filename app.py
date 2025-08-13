@@ -8,7 +8,6 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(page_title="Financial Independence Calculator",
-                   page_subtitle="For Indians",
                    page_icon="💰",
                    layout="wide",
                    initial_sidebar_state="expanded")
